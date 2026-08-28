@@ -1,7 +1,9 @@
-# OpenLogi Batteries for Raycast
+# <img src="assets/extension-icon.png" width="52" height="52" alt="OpenLogi Batteries icon"> OpenLogi Batteries for Raycast
 
 OpenLogi Batteries is a read-only Raycast menu-bar extension for battery levels reported by
 [OpenLogi](https://github.com/AprilNEA/OpenLogi).
+
+![screenshot](assets/screenshot.png)
 
 The menu bar shows the lowest readable battery percentage among connected devices. Open the menu to see every online
 device, its battery level, and whether it is connected through Logi Bolt, a Logitech Unifying or Lightspeed receiver,
@@ -44,4 +46,4 @@ pnpm build
 
 ## Licence
 
-MIT
+[MIT](LICENSE)
